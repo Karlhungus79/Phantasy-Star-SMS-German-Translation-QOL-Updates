@@ -1,35 +1,71 @@
-Phantasy Star (Sega Master System) - Deutsche Uebersetzung
-Version 1.0 - 30.10.2026
+Phantasy Star (Sega Master System) - German Translation / Deutsche Uebersetzung
+Version 1.0 - 2026-10-30
 
---------------------------------------------------------------------------------
-Patch-Datei
---------------------------------------------------------------------------------
-Datei:   PS1_SMS_German_v1.0.bps
+================================================================================
+ ENGLISH
+================================================================================
+
+Patch file
+----------
+File:    PS1_SMS_German_v1.0.bps
 Format:  BPS
-Groesse: 45299 Bytes
+Size:    45,299 bytes
 MD5:     38ede186d6332509b2112c2602ff52b5
 SHA-1:   81a99d2db44b321c462ca93ecdb12847d9e17ffb
 
-(Der interne Patch-CRC32 im BPS-Footer ist bei jeder gueltigen BPS-Datei 2144DF1C.
-Zur Identifikation der Datei bitte MD5/SHA-1 verwenden.)
+(The internal patch CRC32 in the BPS footer is always 2144DF1C for any valid
+BPS file. Please use MD5/SHA-1 to identify the file.)
 
---------------------------------------------------------------------------------
+Required original ROM (English export version, unmodified)
+----------------------------------------------------------
+Size:    524,288 bytes (512 KB)
+CRC32:   00BEF1D7
+MD5:     1110938df80f4e44c8213d7f85cfb5e6
+SHA-1:   07fcf297be4f4c9d92cd3f119a7ac48467e06838
+
+Result after patching
+---------------------
+Size:    1,048,576 bytes (1 MB)
+CRC32:   7A3870F2
+MD5:     69481b4940cb96a1209b436245cda227
+SHA-1:   dfe64058479f0e9c49a7aeeac409f610ec06d3df
+SMS header: "TMR SEGA", checksum $8A3D
+
+Verified: the patch was applied to the original ROM with an independent BPS
+decoder. The result is byte-identical to the build; all three CRC32 values
+stored in the patch (source, target, patch) match.
+
+
+================================================================================
+ DEUTSCH
+================================================================================
+
+Patch-Datei
+-----------
+Datei:   PS1_SMS_German_v1.0.bps
+Format:  BPS
+Groesse: 45.299 Bytes
+MD5:     38ede186d6332509b2112c2602ff52b5
+SHA-1:   81a99d2db44b321c462ca93ecdb12847d9e17ffb
+
+(Der interne Patch-CRC32 im BPS-Footer ist bei jeder gueltigen BPS-Datei
+2144DF1C. Zur Identifikation der Datei bitte MD5/SHA-1 verwenden.)
+
 Benoetigtes Original-ROM (englische Export-Version, unveraendert)
---------------------------------------------------------------------------------
+-----------------------------------------------------------------
 Groesse: 524.288 Bytes (512 KB)
 CRC32:   00BEF1D7
 MD5:     1110938df80f4e44c8213d7f85cfb5e6
 SHA-1:   07fcf297be4f4c9d92cd3f119a7ac48467e06838
 
---------------------------------------------------------------------------------
 Ergebnis nach dem Patchen
---------------------------------------------------------------------------------
+-------------------------
 Groesse: 1.048.576 Bytes (1 MB)
 CRC32:   7A3870F2
 MD5:     69481b4940cb96a1209b436245cda227
 SHA-1:   dfe64058479f0e9c49a7aeeac409f610ec06d3df
 SMS-Header: "TMR SEGA", Pruefsumme $8A3D
 
-Verifiziert: Der Patch wurde mit einem unabhaengigen BPS-Decoder auf das Original-ROM
-angewendet. Das Ergebnis ist byte-identisch mit dem Build, alle drei CRC32-Werte im
-Patch (Quelle, Ziel, Patch) stimmen.
+Verifiziert: Der Patch wurde mit einem unabhaengigen BPS-Decoder auf das
+Original-ROM angewendet. Das Ergebnis ist byte-identisch mit dem Build, alle
+drei CRC32-Werte im Patch (Quelle, Ziel, Patch) stimmen.
