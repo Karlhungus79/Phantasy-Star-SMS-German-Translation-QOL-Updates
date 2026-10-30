@@ -1,0 +1,35 @@
+Phantasy Star (Sega Master System) - Deutsche Uebersetzung
+Version 1.0 - 30.10.2026
+
+--------------------------------------------------------------------------------
+Patch-Datei
+--------------------------------------------------------------------------------
+Datei:   PS1_SMS_German_v1.0.bps
+Format:  BPS
+Groesse: 45299 Bytes
+MD5:     38ede186d6332509b2112c2602ff52b5
+SHA-1:   81a99d2db44b321c462ca93ecdb12847d9e17ffb
+
+(Der interne Patch-CRC32 im BPS-Footer ist bei jeder gueltigen BPS-Datei 2144DF1C.
+Zur Identifikation der Datei bitte MD5/SHA-1 verwenden.)
+
+--------------------------------------------------------------------------------
+Benoetigtes Original-ROM (englische Export-Version, unveraendert)
+--------------------------------------------------------------------------------
+Groesse: 524.288 Bytes (512 KB)
+CRC32:   00BEF1D7
+MD5:     1110938df80f4e44c8213d7f85cfb5e6
+SHA-1:   07fcf297be4f4c9d92cd3f119a7ac48467e06838
+
+--------------------------------------------------------------------------------
+Ergebnis nach dem Patchen
+--------------------------------------------------------------------------------
+Groesse: 1.048.576 Bytes (1 MB)
+CRC32:   7A3870F2
+MD5:     69481b4940cb96a1209b436245cda227
+SHA-1:   dfe64058479f0e9c49a7aeeac409f610ec06d3df
+SMS-Header: "TMR SEGA", Pruefsumme $8A3D
+
+Verifiziert: Der Patch wurde mit einem unabhaengigen BPS-Decoder auf das Original-ROM
+angewendet. Das Ergebnis ist byte-identisch mit dem Build, alle drei CRC32-Werte im
+Patch (Quelle, Ziel, Patch) stimmen.
