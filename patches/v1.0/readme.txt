@@ -80,8 +80,8 @@ this patch. You need your own copy of the game.
   flips.exe --apply PS1_SMS_German_v1.0.bps "Phantasy Star (USA, Europe).sms" "Phantasy Star (DE) v1.0.sms"
 
   Result: 1,048,576 bytes
-    CRC32  7A3870F2
-    SHA-1  dfe64058479f0e9c49a7aeeac409f610ec06d3df
+    CRC32  AFC0AEE6
+    SHA-1  e2854eb06a6488795f9d6a02cdc7ecebc3a72228
 
   All checksums: checksums_v1.0.txt
 
@@ -174,8 +174,8 @@ mitgeliefert, nur dieser Patch. Du brauchst deine eigene Kopie des Spiels.
   flips.exe --apply PS1_SMS_German_v1.0.bps "Phantasy Star (USA, Europe).sms" "Phantasy Star (DE) v1.0.sms"
 
   Ergebnis: 1.048.576 Bytes
-    CRC32  7A3870F2
-    SHA-1  dfe64058479f0e9c49a7aeeac409f610ec06d3df
+    CRC32  AFC0AEE6
+    SHA-1  e2854eb06a6488795f9d6a02cdc7ecebc3a72228
 
   Alle Pruefsummen: checksums_v1.0.txt
 

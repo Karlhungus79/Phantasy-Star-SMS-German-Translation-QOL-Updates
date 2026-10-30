@@ -9,9 +9,9 @@ Patch file
 ----------
 File:    PS1_SMS_German_v1.0.bps
 Format:  BPS
-Size:    45,299 bytes
-MD5:     38ede186d6332509b2112c2602ff52b5
-SHA-1:   81a99d2db44b321c462ca93ecdb12847d9e17ffb
+Size:    45,334 bytes
+MD5:     4632c926c1e6a2370d7e241d50afe893
+SHA-1:   77039bdaf010c6d9b51741a652c6999ed7052862
 
 (The internal patch CRC32 in the BPS footer is always 2144DF1C for any valid
 BPS file. Please use MD5/SHA-1 to identify the file.)
@@ -26,9 +26,9 @@ SHA-1:   07fcf297be4f4c9d92cd3f119a7ac48467e06838
 Result after patching
 ---------------------
 Size:    1,048,576 bytes (1 MB)
-CRC32:   7A3870F2
-MD5:     69481b4940cb96a1209b436245cda227
-SHA-1:   dfe64058479f0e9c49a7aeeac409f610ec06d3df
+CRC32:   AFC0AEE6
+MD5:     c34a52726734eaf237e9d5df64d5fe6d
+SHA-1:   e2854eb06a6488795f9d6a02cdc7ecebc3a72228
 SMS header: "TMR SEGA", checksum $8A3D
 
 Verified: the patch was applied to the original ROM with an independent BPS
@@ -44,9 +44,9 @@ Patch-Datei
 -----------
 Datei:   PS1_SMS_German_v1.0.bps
 Format:  BPS
-Groesse: 45.299 Bytes
-MD5:     38ede186d6332509b2112c2602ff52b5
-SHA-1:   81a99d2db44b321c462ca93ecdb12847d9e17ffb
+Groesse: 45.334 Bytes
+MD5:     4632c926c1e6a2370d7e241d50afe893
+SHA-1:   77039bdaf010c6d9b51741a652c6999ed7052862
 
 (Der interne Patch-CRC32 im BPS-Footer ist bei jeder gueltigen BPS-Datei
 2144DF1C. Zur Identifikation der Datei bitte MD5/SHA-1 verwenden.)
@@ -61,9 +61,9 @@ SHA-1:   07fcf297be4f4c9d92cd3f119a7ac48467e06838
 Ergebnis nach dem Patchen
 -------------------------
 Groesse: 1.048.576 Bytes (1 MB)
-CRC32:   7A3870F2
-MD5:     69481b4940cb96a1209b436245cda227
-SHA-1:   dfe64058479f0e9c49a7aeeac409f610ec06d3df
+CRC32:   AFC0AEE6
+MD5:     c34a52726734eaf237e9d5df64d5fe6d
+SHA-1:   e2854eb06a6488795f9d6a02cdc7ecebc3a72228
 SMS-Header: "TMR SEGA", Pruefsumme $8A3D
 
 Verifiziert: Der Patch wurde mit einem unabhaengigen BPS-Decoder auf das

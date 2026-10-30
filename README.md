@@ -67,7 +67,7 @@ The BPS patch checks the source ROM and refuses any other file.
 
 Command line: `flips.exe --apply PS1_SMS_German_v1.0.bps "Phantasy Star (USA, Europe).sms" "Phantasy Star (DE) v1.0.sms"`
 
-Expected result: 1,048,576 bytes, CRC32 `7A3870F2`, SHA-1 `dfe64058479f0e9c49a7aeeac409f610ec06d3df`.
+Expected result: 1,048,576 bytes, CRC32 `AFC0AEE6`, SHA-1 `e2854eb06a6488795f9d6a02cdc7ecebc3a72228`.
 
 ## Notes
 
@@ -150,7 +150,7 @@ Der BPS-Patch prüft das Ausgangs-ROM und lehnt andere Dateien ab.
 
 Kommandozeile: `flips.exe --apply PS1_SMS_German_v1.0.bps "Phantasy Star (USA, Europe).sms" "Phantasy Star (DE) v1.0.sms"`
 
-Erwartetes Ergebnis: 1.048.576 Byte, CRC32 `7A3870F2`, SHA-1 `dfe64058479f0e9c49a7aeeac409f610ec06d3df`.
+Erwartetes Ergebnis: 1.048.576 Byte, CRC32 `AFC0AEE6`, SHA-1 `e2854eb06a6488795f9d6a02cdc7ecebc3a72228`.
 
 ## Hinweise
 
